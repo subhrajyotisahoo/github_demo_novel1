@@ -1,0 +1,4 @@
+here is a test of git checkout <hashcode>
+and then git switch branch -c <branch name> 
+and create a different branch by going to past or i can say timetravell to past and changes something that wouldnt affect the master branch
+it just create a new time line and we can work on that
